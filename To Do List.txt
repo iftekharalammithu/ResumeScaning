@@ -1,0 +1,6 @@
+1. Data Import
+
+2. Data Visualize
+3. Data Cleaning
+4. Data prepared For Model
+5. Model Implement 
